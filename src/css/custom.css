@@ -1,0 +1,12 @@
+.liStyle{
+	background-color: #343a40;
+    border: 1px solid #fff;
+    color: #fff;
+    padding: 0px 10px 0px 10px;
+}
+li:hover{
+	background-color: #28a745; 
+}
+.liColor{
+	color:#fff !important;
+}
